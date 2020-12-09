@@ -1,4 +1,10 @@
-# Blog posts
+## Welcome to my Github presense
+
+- 💬 The majority of my OSS activity is related to DevOps, and most commonly developing Azure DevOps Pipeline Extensions. Feel free to reach out to me on this subject if you think I can help.
+- 📫 How to reach me via  the [Discussions area on my primary AzurePipelines repo](https://github.com/rfennell/AzurePipelines/discussions) or [Twitter @richardfennell](https://twitter.com/richardfennell)
+- 😄 Pronouns: He/Him
+
+## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Running UWP Unit Tests as part of an Azure DevOps Pipeline](https://blogs.blackmarble.co.uk/rfennell/2020/12/08/running-uwp-unit-tests-as-part-of-an-azure-devops-pipeline/)
 - [Out of Memory running SonarQube Analysis on a large projects](https://blogs.blackmarble.co.uk/rfennell/2020/12/01/out-of-memory-running-sonarqube-analysis-on-a-large-projects/)
