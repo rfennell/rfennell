@@ -1,7 +1,7 @@
 ## Welcome to my Github presense
 
 - 💬 The majority of my OSS activity is related to DevOps, and most commonly developing Azure DevOps Pipeline Extensions. Feel free to reach out to me on this subject if you think I can help.
-- 📫 Reach me via the [Discussions area on my primary AzurePipelines repo](https://github.com/rfennell/AzurePipelines/discussions) or [Twitter @richardfennell](https://twitter.com/richardfennell)
+- 📫 Reach me via the Discussions area of the appropriate GitHub repo or [Twitter @richardfennell](https://twitter.com/richardfennell)
 - 😄 Pronouns: He/Him
 
 ## Recent Blog Posts
