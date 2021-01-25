@@ -6,11 +6,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What to do when moving your Azure DevOps organisation from one region to another is delayed.](https://blogs.blackmarble.co.uk/rfennell/2021/01/25/what-to-do-when-moving-your-azure-devops-organisation-from-one-region-to-another-is-delayed/)
 - [Porting my Release Notes Azure DevOps Pipelines Extension to GitHub Actions](https://blogs.blackmarble.co.uk/rfennell/2020/12/31/porting-my-release-notes-azure-devops-pipelines-extension-to-github-actions/)
 - [My DDD2020 Session – How can I automatically create Azure DevOps Release Notes and how can I publish them](https://blogs.blackmarble.co.uk/rfennell/2020/12/21/my-ddd2020-session-how-can-i-automatically-create-azure-devops-release-notes-how-can-i-publish-them/)
 - [Running UWP Unit Tests as part of an Azure DevOps Pipeline](https://blogs.blackmarble.co.uk/rfennell/2020/12/08/running-uwp-unit-tests-as-part-of-an-azure-devops-pipeline/)
 - [Out of Memory running SonarQube Analysis on a large projects](https://blogs.blackmarble.co.uk/rfennell/2020/12/01/out-of-memory-running-sonarqube-analysis-on-a-large-projects/)
-- [Getting confused over Azure DevOps Pipeline variable evaluation](https://blogs.blackmarble.co.uk/rfennell/2020/11/27/getting-confused-over-azure-devops-pipeline-variable-evaluation/)
 <!-- BLOG-POST-LIST:END -->
 
 
