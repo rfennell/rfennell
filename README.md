@@ -6,11 +6,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tidying up local branches with a Git Alias and a PowerShell Script](https://blogs.blackmarble.co.uk/rfennell/2021/03/16/tidying-up-local-branches-with-a-git-alias-and-a-powershell-script/)
 - [Added Manual Test Plan support to my Azure DevOps Cross-Platform Release notes Task](https://blogs.blackmarble.co.uk/rfennell/2021/03/03/added-manual-test-plan-support-to-my-azure-devops-cross-platform-release-notes-task/)
 - [Fixing my SQLite Error 5: ‘database is locked’ error in Entity Framework](https://blogs.blackmarble.co.uk/rfennell/2021/02/12/fixing-my-sqlite-error-5-database-is-locked-error-in-entity-framework/)
 - [What to do when moving your Azure DevOps organisation from one region to another is delayed.](https://blogs.blackmarble.co.uk/rfennell/2021/01/25/what-to-do-when-moving-your-azure-devops-organisation-from-one-region-to-another-is-delayed/)
 - [Porting my Release Notes Azure DevOps Pipelines Extension to GitHub Actions](https://blogs.blackmarble.co.uk/rfennell/2020/12/31/porting-my-release-notes-azure-devops-pipelines-extension-to-github-actions/)
-- [My DDD2020 Session – How can I automatically create Azure DevOps Release Notes and how can I publish them](https://blogs.blackmarble.co.uk/rfennell/2020/12/21/my-ddd2020-session-how-can-i-automatically-create-azure-devops-release-notes-how-can-i-publish-them/)
 <!-- BLOG-POST-LIST:END -->
 
 
