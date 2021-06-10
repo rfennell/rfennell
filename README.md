@@ -6,11 +6,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Automating the creation of Team Projects in Azure DevOps](https://blogs.blackmarble.co.uk/rfennell/2021/06/10/automating-the-creation-of-team-projects-in-azure-devops/)
 - [Getting the approver for release to an environment within an Azure DevOps Multi-Stage YAML pipeline](https://blogs.blackmarble.co.uk/rfennell/2021/05/15/getting-the-approver-for-release-to-an-environment-within-an-azure-devops-multi-stage-yaml-pipeline/)
 - [Loading drivers for cross-browser testing with Selenium](https://blogs.blackmarble.co.uk/rfennell/2021/04/21/loading-drivers-for-cross-browser-testing-with-selenium/)
 - [A first look at the beta of GitHub Issue Forms](https://blogs.blackmarble.co.uk/rfennell/2021/04/06/a-first-look-at-the-beta-of-github-issue-forms/)
 - [Tidying up local branches with a Git Alias and a PowerShell Script](https://blogs.blackmarble.co.uk/rfennell/2021/03/16/tidying-up-local-branches-with-a-git-alias-and-a-powershell-script/)
-- [Added Manual Test Plan support to my Azure DevOps Cross-Platform Release notes Task](https://blogs.blackmarble.co.uk/rfennell/2021/03/03/added-manual-test-plan-support-to-my-azure-devops-cross-platform-release-notes-task/)
 <!-- BLOG-POST-LIST:END -->
 
 
