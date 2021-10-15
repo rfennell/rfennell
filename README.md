@@ -6,11 +6,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Automating adding issues to Beta GitHub Projects using GitHub Actions](https://blogs.blackmarble.co.uk/rfennell/2021/10/15/automating-adding-issues-to-beta-github-projects-using-github-actions/)
 - [Making SonarQube Quality Checks a required PR check on Azure DevOps](https://blogs.blackmarble.co.uk/rfennell/2021/09/21/making-sonarqube-quality-checks-a-required-pr-check-on-azure-devops/)
 - [My cancer story – thus far](https://blogs.blackmarble.co.uk/rfennell/2021/08/23/my-cancer-story-thus-far/)
 - [But what if I can’t use GitHub Codespaces? Welcome to github.dev](https://blogs.blackmarble.co.uk/rfennell/2021/08/12/but-what-if-i-cant-use-github-codespaces-welcome-to-github-dev/)
 - [How I dealt with a strange problem with PSRepositories and dotnet NuGet sources](https://blogs.blackmarble.co.uk/rfennell/2021/07/16/how-i-dealt-with-a-strange-problem-with-psrepositories-and-dotnet-nuget-sources/)
-- [Porting my Visual Studio Parameters.xml Generator tool to Visual Studio 2022 Preview](https://blogs.blackmarble.co.uk/rfennell/2021/06/22/porting-my-visual-studio-parameters-xml-generator-tool-to-visual-studio-2022-preview/)
 <!-- BLOG-POST-LIST:END -->
 
 
