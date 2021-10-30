@@ -6,11 +6,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [New features for my Azure DevOps Release Notes Extension](https://blogs.blackmarble.co.uk/rfennell/2021/10/30/new-features-for-my-azure-devops-release-notes-extension/)
 - [The case of the self-cancelling Azure DevOps pipeline](https://blogs.blackmarble.co.uk/rfennell/2021/10/29/the-case-of-the-self-cancelling-azure-devops-pipeline/)
 - [Automating adding issues to Beta GitHub Projects using GitHub Actions](https://blogs.blackmarble.co.uk/rfennell/2021/10/15/automating-adding-issues-to-beta-github-projects-using-github-actions/)
 - [Making SonarQube Quality Checks a required PR check on Azure DevOps](https://blogs.blackmarble.co.uk/rfennell/2021/09/21/making-sonarqube-quality-checks-a-required-pr-check-on-azure-devops/)
 - [My cancer story – thus far](https://blogs.blackmarble.co.uk/rfennell/2021/08/23/my-cancer-story-thus-far/)
-- [But what if I can’t use GitHub Codespaces? Welcome to github.dev](https://blogs.blackmarble.co.uk/rfennell/2021/08/12/but-what-if-i-cant-use-github-codespaces-welcome-to-github-dev/)
 <!-- BLOG-POST-LIST:END -->
 
 
