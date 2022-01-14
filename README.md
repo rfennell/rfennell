@@ -6,11 +6,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The importance of blogging – or how to do your future self a favour](https://blogs.blackmarble.co.uk/rfennell/2022/01/14/the-importance-of-blogging-or-how-to-do-your-future-self-a-favour/)
 - [Using Azure DevOps Stage Dependency Variables with Conditional Stage and Job Execution](https://blogs.blackmarble.co.uk/rfennell/2022/01/10/using-azure-devops-stage-dependency-variables-with-conditional-stage-and-job-execution/)
 - [Setting Azure DevOps ‘All Repositories’ Policies via the CLI](https://blogs.blackmarble.co.uk/rfennell/2021/11/12/setting-azure-devops-all-repositories-policies-via-the-cli/)
 - [How to fix Azure Pipeline YAML parsing errors seen after renaming the default Git branch](https://blogs.blackmarble.co.uk/rfennell/2021/11/03/how-to-fix-azure-pipeline-yaml-parsing-errors-seen-after-renaming-the-default-git-branch/)
 - [New features for my Azure DevOps Release Notes Extension](https://blogs.blackmarble.co.uk/rfennell/2021/10/30/new-features-for-my-azure-devops-release-notes-extension/)
-- [The case of the self-cancelling Azure DevOps pipeline](https://blogs.blackmarble.co.uk/rfennell/2021/10/29/the-case-of-the-self-cancelling-azure-devops-pipeline/)
 <!-- BLOG-POST-LIST:END -->
 
 
