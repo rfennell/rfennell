@@ -6,11 +6,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Updating the Azure Application client_secret used by Packer](https://blogs.blackmarble.co.uk/rfennell/2022/05/03/updating-the-azure-application-client_secret-used-by-packer/)
 - [Speaking at the rescheduled Microsoft and GitHub DevOps Forum on the 4th of May](https://blogs.blackmarble.co.uk/rfennell/2022/04/07/speaking-at-the-rescheduled-microsoft-and-github-devops-forum-on-the-4th-of-may/)
 - [Fix for Azure DevOps deployment to an environment stuck in “Job is pending” state](https://blogs.blackmarble.co.uk/rfennell/2022/04/07/fixe-for-azure-devops-deployment-to-an-environment-stuck-in-job-is-pending-state%ef%bf%bc%ef%bf%bc%ef%bf%bc/)
 - [Speaking at the Microsoft and GitHub DevOps Forum on the 10th of March](https://blogs.blackmarble.co.uk/rfennell/2022/03/03/speaking-at-the-microsoft-and-github-devops-forum-on-the-10th-of-march/)
 - [A workaround for not being able to access custom variables via stagedependencies if they are set in deployment jobs in Azure DevOps Pipelines](https://blogs.blackmarble.co.uk/rfennell/2022/02/19/a-workaround-for-not-being-able-to-access-custom-variables-via-stagedependencies-if-they-are-set-in-deployment-jobs-in-azure-devops-pipelines/)
-- [The importance of blogging – or how to do your future self a favour](https://blogs.blackmarble.co.uk/rfennell/2022/01/14/the-importance-of-blogging-or-how-to-do-your-future-self-a-favour/)
 <!-- BLOG-POST-LIST:END -->
 
 
