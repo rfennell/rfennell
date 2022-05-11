@@ -9,7 +9,7 @@
 - [More examples of using custom variables in Azure DevOps multi-stage YML](https://blogs.blackmarble.co.uk/rfennell/2022/05/05/more-examples-of-using-custom-variables-in-azure-devops-multi-stage-yml/)
 - [Updating the Azure Application client_secret used by Packer](https://blogs.blackmarble.co.uk/rfennell/2022/05/03/updating-the-azure-application-client_secret-used-by-packer/)
 - [Speaking at the rescheduled Microsoft and GitHub DevOps Forum on the 4th of May](https://blogs.blackmarble.co.uk/rfennell/2022/04/07/speaking-at-the-rescheduled-microsoft-and-github-devops-forum-on-the-4th-of-may/)
-- [Fix for Azure DevOps deployment to an environment stuck in “Job is pending” state](https://blogs.blackmarble.co.uk/rfennell/2022/04/07/fixe-for-azure-devops-deployment-to-an-environment-stuck-in-job-is-pending-state%ef%bf%bc%ef%bf%bc%ef%bf%bc/)
+- [Fix for Azure DevOps deployment to an environment stuck in “Job is pending” state](https://blogs.blackmarble.co.uk/rfennell/2022/04/07/fixe-for-azure-devops-deployment-to-an-environment-stuck-in-job-is-pending-state/)
 - [Speaking at the Microsoft and GitHub DevOps Forum on the 10th of March](https://blogs.blackmarble.co.uk/rfennell/2022/03/03/speaking-at-the-microsoft-and-github-devops-forum-on-the-10th-of-march/)
 <!-- BLOG-POST-LIST:END -->
 
