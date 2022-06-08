@@ -12,3 +12,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://blogs.blackmarble.co.uk/rfennell/feed/"
+          retry_count: 3
