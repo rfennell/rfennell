@@ -6,11 +6,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Fix for can’t add second outlook.com account to Outlook Desktop – requires non-existent PIN](https://blogs.blackmarble.co.uk/rfennell/2022/06/10/fix-for-cant-add-second-outlook-com-account-to-outlook-desktop-requires-non-existent-pin/)
 - [Adding Job Summary support to my GitHub Release Notes Action](https://blogs.blackmarble.co.uk/rfennell/2022/05/19/adding-job-summary-support-to-my-github-release-notes-action/)
 - [Fix for cannot ‘TypeError: Cannot read property’ when Dependabot submits a PR to upgrade a Jest Module](https://blogs.blackmarble.co.uk/rfennell/2022/05/19/fix-for-cannot-typeerror-cannot-read-property-when-dependabot-submits-a-pr-to-upgrade-a-jest-module/)
 - [On-Demand video available for May’s ‘Microsoft and GitHub DevOps Forum: DevSecOps’](https://blogs.blackmarble.co.uk/rfennell/2022/05/17/on-demand-video-available-for-mays-microsoft-and-github-devops-forum-devsecops/)
 - [More examples of using custom variables in Azure DevOps multi-stage YML](https://blogs.blackmarble.co.uk/rfennell/2022/05/05/more-examples-of-using-custom-variables-in-azure-devops-multi-stage-yml/)
-- [Updating the Azure Application client_secret used by Packer](https://blogs.blackmarble.co.uk/rfennell/2022/05/03/updating-the-azure-application-client_secret-used-by-packer/)
 <!-- BLOG-POST-LIST:END -->
 
 
