@@ -6,11 +6,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Don’t skimp on resources for GHES for demo instances](https://blogs.blackmarble.co.uk/rfennell/2022/06/16/dont-skimp-on-resources-for-ghes-for-demo-instances/)
-- [Fix for can’t add second outlook.com account to Outlook Desktop – requires non-existent PIN](https://blogs.blackmarble.co.uk/rfennell/2022/06/10/fix-for-cant-add-second-outlook-com-account-to-outlook-desktop-requires-non-existent-pin/)
-- [Adding Job Summary support to my GitHub Release Notes Action](https://blogs.blackmarble.co.uk/rfennell/2022/05/19/adding-job-summary-support-to-my-github-release-notes-action/)
-- [Fix for cannot ‘TypeError: Cannot read property’ when Dependabot submits a PR to upgrade a Jest Module](https://blogs.blackmarble.co.uk/rfennell/2022/05/19/fix-for-cannot-typeerror-cannot-read-property-when-dependabot-submits-a-pr-to-upgrade-a-jest-module/)
-- [On-Demand video available for May’s ‘Microsoft and GitHub DevOps Forum: DevSecOps’](https://blogs.blackmarble.co.uk/rfennell/2022/05/17/on-demand-video-available-for-mays-microsoft-and-github-devops-forum-devsecops/)
+- [Migrating from WordPress to Hugo Static Pages](https://blogs.blackmarble.co.uk/rfennell/migrating-from-wordpress-to-hugo/)
+- [Don&#39;t skimp on resources for GHES for demo instances](https://blogs.blackmarble.co.uk/rfennell/dont-skimp-on-resources-for-ghes-for-demo-instances/)
+- [Fix for can&#39;t add second outlook.com account to Outlook Desktop - requires non-existent PIN](https://blogs.blackmarble.co.uk/rfennell/fix-for-cant-add-second-outlook-com-account-to-outlook-desktop-requires-non-existent-pin/)
+- [Adding Job Summary support to my GitHub Release Notes Action](https://blogs.blackmarble.co.uk/rfennell/adding-job-summary-support-to-my-github-release-notes-action/)
+- [Fix for cannot &#39;TypeError: Cannot read property&#39; when Dependabot submits a PR to upgrade a Jest Module](https://blogs.blackmarble.co.uk/rfennell/fix-for-cannot-typeerror-cannot-read-property-when-dependabot-submits-a-pr-to-upgrade-a-jest-module/)
 <!-- BLOG-POST-LIST:END -->
 
 
