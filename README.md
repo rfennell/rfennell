@@ -6,11 +6,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Book Review &quot;Accelerate DevOps with GitHub&quot; by Michael Kaufmann](https://blogs.blackmarble.co.uk/rfennell/book-review-accelerate-devops-with-github/)
 - [Why has my HP printer become a DVD? A fix for HP USB Printers not being detected on Windows 10/11](https://blogs.blackmarble.co.uk/rfennell/why-has-my-printer-become-a-drive/)
 - [Why has my MVC site stopped working?](https://blogs.blackmarble.co.uk/rfennell/why-has-my-mvc-site-stopped-working/)
 - [Cannot retrieve Umbraco node](https://blogs.blackmarble.co.uk/rfennell/cannot-retrieve-umbraco-node/)
 - [Social Media Posts after Migrating from WordPress to Hugo Static Pages](https://blogs.blackmarble.co.uk/rfennell/social-media-posts-after-migrating-from-wordpress-to-hugo/)
-- [Migrating from WordPress to Hugo Static Pages](https://blogs.blackmarble.co.uk/rfennell/migrating-from-wordpress-to-hugo/)
 <!-- BLOG-POST-LIST:END -->
 
 
