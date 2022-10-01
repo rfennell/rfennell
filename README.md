@@ -6,11 +6,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [SonarCloud PR branch analysis when the main/trunk branch has not been analysed](https://blogs.blackmarble.co.uk/rfennell/sonarcloud-pr-analysis-when-the-main-branch-has-not-been-analysed/)
 - [Showing OWASP Dependency Check results in SonarCloud](https://blogs.blackmarble.co.uk/rfennell/linking-dependencycheck-and-sonarcloud/)
 - [Clearing the AssignedTo field on an Azure DevOps Work items with the AZ CLI](https://blogs.blackmarble.co.uk/rfennell/clearing-the-assigned-to-field-with-az-cli/)
 - [Book Review &quot;Accelerate DevOps with GitHub&quot; by Michael Kaufmann](https://blogs.blackmarble.co.uk/rfennell/book-review-accelerate-devops-with-github/)
 - [Why has my HP printer become a DVD? A fix for HP USB Printers not being detected on Windows 10/11](https://blogs.blackmarble.co.uk/rfennell/why-has-my-printer-become-a-drive/)
-- [Why has my MVC site stopped working?](https://blogs.blackmarble.co.uk/rfennell/why-has-my-mvc-site-stopped-working/)
 <!-- BLOG-POST-LIST:END -->
 
 
