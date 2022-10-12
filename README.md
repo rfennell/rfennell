@@ -6,11 +6,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Ignite 2022 Azure DevOps &amp; GitHub Announcements - GitHub Advanced Security comes to Azure DevOps](https://blogs.blackmarble.co.uk/rfennell/ignite-2022-azure-devops-and-github-announcements/)
 - [SonarCloud PR branch analysis when the main/trunk branch has not been analysed](https://blogs.blackmarble.co.uk/rfennell/sonarcloud-pr-analysis-when-the-main-branch-has-not-been-analysed/)
 - [Showing OWASP Dependency Check results in SonarCloud](https://blogs.blackmarble.co.uk/rfennell/linking-dependencycheck-and-sonarcloud/)
 - [Clearing the AssignedTo field on an Azure DevOps Work items with the AZ CLI](https://blogs.blackmarble.co.uk/rfennell/clearing-the-assigned-to-field-with-az-cli/)
 - [Book Review &quot;Accelerate DevOps with GitHub&quot; by Michael Kaufmann](https://blogs.blackmarble.co.uk/rfennell/book-review-accelerate-devops-with-github/)
-- [Why has my HP printer become a DVD? A fix for HP USB Printers not being detected on Windows 10/11](https://blogs.blackmarble.co.uk/rfennell/why-has-my-printer-become-a-drive/)
 <!-- BLOG-POST-LIST:END -->
 
 
