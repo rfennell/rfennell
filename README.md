@@ -6,11 +6,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Fixing my Logitech Spotlight Presentation Remote that would not switch on](https://blogs.blackmarble.co.uk/rfennell/fixing-my-logitech-spotlight/)
 - [Using Azure DevOps Migration Tools Again](https://blogs.blackmarble.co.uk/rfennell/time-for-azure-devops-migration-tools-again/)
 - [GitVersion task fails on a cloned Azure DevOps YAML Pipeline](https://blogs.blackmarble.co.uk/rfennell/gitversion-fails-on-a-cloned-yaml-build/)
 - [Migrating our &quot;Living the Dream&quot; DevOps demo to GitHub Enterprise](https://blogs.blackmarble.co.uk/rfennell/migrating-living-the-dream-to-github/)
 - [Ignite 2022 Azure DevOps &amp; GitHub Announcements - GitHub Advanced Security comes to Azure DevOps](https://blogs.blackmarble.co.uk/rfennell/ignite-2022-azure-devops-and-github-announcements/)
-- [SonarCloud PR branch analysis when the main/trunk branch has not been analysed](https://blogs.blackmarble.co.uk/rfennell/sonarcloud-pr-analysis-when-the-main-branch-has-not-been-analysed/)
 <!-- BLOG-POST-LIST:END -->
 
 
