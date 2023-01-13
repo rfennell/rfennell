@@ -6,11 +6,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Could not find assembly deploying a dotnet 6 console app](https://blogs.blackmarble.co.uk/rfennell/could-not-find-assembly-deploying-dotnet6-app/)
 - [Book Review - Code: The Hidden Language of Computer Hardware and Software](https://blogs.blackmarble.co.uk/rfennell/code-the-hidden-language-of-computer-hardware-and-software/)
 - [Duplicate Test DLLs with vstest.console.exe causes failures](https://blogs.blackmarble.co.uk/rfennell/duplicate-test-dlls-with-vstest.console.exe-causes-failures/)
 - [GitHub agent Node version stops Hugo site build](https://blogs.blackmarble.co.uk/rfennell/agent-node-version-stops-hugo-site-build/)
 - [Updating my Azure DevOps Pipeline Task to Use the Node16 Runner](https://blogs.blackmarble.co.uk/rfennell/updating-my-azure-devops-tasks-to-node16/)
-- [You need a license to touch that &lpar;revised 18 years on&rpar;](https://blogs.blackmarble.co.uk/rfennell/you-need-a-license-to-touch-that-revised/)
 <!-- BLOG-POST-LIST:END -->
 
 
