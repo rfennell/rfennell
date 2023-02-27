@@ -6,11 +6,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting &quot;cannot find path&quot; error using Install-Package](https://blogs.blackmarble.co.uk/rfennell/getting-cannot-find-path-error-using-install-package/)
 - [What happens when you link an Azure DevOps Variable Group to an Azure Key Vault?](https://blogs.blackmarble.co.uk/rfennell/what-happens-when-you-link-a-variable-group-to-key-vault/)
 - [Handling return values from Azure Functions in Hugo static website](https://blogs.blackmarble.co.uk/rfennell/hugo-static-website-azure-functions-and-return-values/)
 - [Could not find assembly deploying a dotnet 6 console app](https://blogs.blackmarble.co.uk/rfennell/could-not-find-assembly-deploying-dotnet6-app/)
 - [Book Review - Code: The Hidden Language of Computer Hardware and Software](https://blogs.blackmarble.co.uk/rfennell/code-the-hidden-language-of-computer-hardware-and-software/)
-- [Duplicate Test DLLs with vstest.console.exe causes failures](https://blogs.blackmarble.co.uk/rfennell/duplicate-test-dlls-with-vstest.console.exe-causes-failures/)
 <!-- BLOG-POST-LIST:END -->
 
 
