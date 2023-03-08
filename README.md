@@ -6,11 +6,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pinning specific Azure DevOps task versions](https://blogs.blackmarble.co.uk/rfennell/pinning-specific-azure-devops-task-versions/)
 - [Getting x86 .NET 3.x tests running on the latest Azure Devops hosted agents](https://blogs.blackmarble.co.uk/rfennell/getting-x86-test-running-on-the-latest-azure-devops-hosted-agents/)
 - [Getting &quot;cannot find path&quot; error using Install-Package](https://blogs.blackmarble.co.uk/rfennell/getting-cannot-find-path-error-using-install-package/)
 - [What happens when you link an Azure DevOps Variable Group to an Azure Key Vault?](https://blogs.blackmarble.co.uk/rfennell/what-happens-when-you-link-a-variable-group-to-key-vault/)
 - [Handling return values from Azure Functions in Hugo static website](https://blogs.blackmarble.co.uk/rfennell/hugo-static-website-azure-functions-and-return-values/)
-- [Could not find assembly deploying a dotnet 6 console app](https://blogs.blackmarble.co.uk/rfennell/could-not-find-assembly-deploying-dotnet6-app/)
 <!-- BLOG-POST-LIST:END -->
 
 
