@@ -6,11 +6,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [A more secure alternative to PAT tokens for accessing Azure DevOps Programmatically](https://blogs.blackmarble.co.uk/rfennell/a-more-secure-alternative-to-pat-tokens-for-azure-devops/)
 - [Downloading NuGet packages with &#39;System.Net.WebClient&#39; from an Azure DevOps Artifact feed](https://blogs.blackmarble.co.uk/rfennell/downloading-nuget-packages-with-system.net.webclient/)
 - [Pinning specific Azure DevOps task versions](https://blogs.blackmarble.co.uk/rfennell/pinning-specific-azure-devops-task-versions/)
 - [Getting x86 .NET 3.x tests running on the latest Azure Devops hosted agents](https://blogs.blackmarble.co.uk/rfennell/getting-x86-test-running-on-the-latest-azure-devops-hosted-agents/)
 - [Getting &quot;cannot find path&quot; error using Install-Package](https://blogs.blackmarble.co.uk/rfennell/getting-cannot-find-path-error-using-install-package/)
-- [What happens when you link an Azure DevOps Variable Group to an Azure Key Vault?](https://blogs.blackmarble.co.uk/rfennell/what-happens-when-you-link-a-variable-group-to-key-vault/)
 <!-- BLOG-POST-LIST:END -->
 
 
