@@ -6,11 +6,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Bit rot is killing my pipelines](https://blogs.blackmarble.co.uk/rfennell/bit-rot-is-killing-my-pipelines/)
 - [Moving my Azure DevOps Pipeline generated social posts to Azure Logic Apps](https://blogs.blackmarble.co.uk/rfennell/moving-my-azure-devops-pipeline-social-posts-to-logic-apps/)
 - [A more secure alternative to PAT tokens for accessing Azure DevOps Programmatically](https://blogs.blackmarble.co.uk/rfennell/a-more-secure-alternative-to-pat-tokens-for-azure-devops/)
 - [Downloading NuGet packages with &#39;System.Net.WebClient&#39; from an Azure DevOps Artifact feed](https://blogs.blackmarble.co.uk/rfennell/downloading-nuget-packages-with-system.net.webclient/)
 - [Pinning specific Azure DevOps task versions](https://blogs.blackmarble.co.uk/rfennell/pinning-specific-azure-devops-task-versions/)
-- [Getting x86 .NET 3.x tests running on the latest Azure Devops hosted agents](https://blogs.blackmarble.co.uk/rfennell/getting-x86-test-running-on-the-latest-azure-devops-hosted-agents/)
 <!-- BLOG-POST-LIST:END -->
 
 
