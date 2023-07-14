@@ -6,11 +6,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Update on sending social media posts from Hugo based static site](https://blogs.blackmarble.co.uk/rfennell/update-on-sending-social-media-posts-from-hugo-based-static-site/)
 - [How to run your own maintenance job on Azure DevOps pipelines](https://blogs.blackmarble.co.uk/rfennell/how-to-run-your-own-maintainance-job-on-azure-devops-pipelines/)
 - [Bit rot is killing my pipelines](https://blogs.blackmarble.co.uk/rfennell/bit-rot-is-killing-my-pipelines/)
 - [Moving my Azure DevOps Pipeline generated social posts to Azure Logic Apps](https://blogs.blackmarble.co.uk/rfennell/moving-my-azure-devops-pipeline-social-posts-to-logic-apps/)
 - [A more secure alternative to PAT tokens for accessing Azure DevOps Programmatically](https://blogs.blackmarble.co.uk/rfennell/a-more-secure-alternative-to-pat-tokens-for-azure-devops/)
-- [Downloading NuGet packages with &#39;System.Net.WebClient&#39; from an Azure DevOps Artifact feed](https://blogs.blackmarble.co.uk/rfennell/downloading-nuget-packages-with-system.net.webclient/)
 <!-- BLOG-POST-LIST:END -->
 
 
