@@ -6,11 +6,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [SonarCloud Azure DevOps PR Analysis fails with a 404 error](https://blogs.blackmarble.co.uk/rfennell/sonar-cloud-pr-analysis-fails/)
 - [Fix for metadata generation failed exit code: 2147450750 loading wrong version of DLLs when building Azure Functions](https://blogs.blackmarble.co.uk/rfennell/fix-for-metadata-generation-failed-exit-code-2147450750-building-azure-functions/)
 - [Update on sending social media posts from Hugo based static site](https://blogs.blackmarble.co.uk/rfennell/update-on-sending-social-media-posts-from-hugo-based-static-site/)
 - [How to run your own maintenance job on Azure DevOps pipelines](https://blogs.blackmarble.co.uk/rfennell/how-to-run-your-own-maintainance-job-on-azure-devops-pipelines/)
 - [Bit rot is killing my pipelines](https://blogs.blackmarble.co.uk/rfennell/bit-rot-is-killing-my-pipelines/)
-- [Moving my Azure DevOps Pipeline generated social posts to Azure Logic Apps](https://blogs.blackmarble.co.uk/rfennell/moving-my-azure-devops-pipeline-social-posts-to-logic-apps/)
 <!-- BLOG-POST-LIST:END -->
 
 
