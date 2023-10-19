@@ -6,11 +6,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Practical DevOps in the Enterprise - Event &amp; Whitepaper](https://blogs.blackmarble.co.uk/rfennell/practical-devdps-in-the-enterprise/)
+- [New problem when generating build agents using Packer](https://blogs.blackmarble.co.uk/rfennell/new-problem-when-generating-build-agents-using-packer/)
+- [Practical DevOps in the Enterprise - Event &amp; Whitepaper](https://blogs.blackmarble.co.uk/rfennell/practical-devops-in-the-enterprise/)
 - [SonarQube Docker Container will not start](https://blogs.blackmarble.co.uk/rfennell/sonarqube-container-will-not-start/)
 - [Setting Azure DevOps Agent Pool Descriptions via the Azure DevOps API](https://blogs.blackmarble.co.uk/rfennell/setting-azure-devops-agent-pool_descriptions/)
 - [Setting up Snipe IT on Azure using Docker](https://blogs.blackmarble.co.uk/rfennell/setting-up-snipe-it-on-azure/)
-- [SonarCloud Azure DevOps PR Analysis fails with a 404 error](https://blogs.blackmarble.co.uk/rfennell/sonar-cloud-pr-analysis-fails/)
 <!-- BLOG-POST-LIST:END -->
 
 
