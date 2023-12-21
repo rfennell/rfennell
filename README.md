@@ -6,11 +6,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Change in Edge/Chromium profile settings broke my Azure Entra ID SSO](https://blogs.blackmarble.co.uk/rfennell/change-in-browser-profile-settings-broke-my-sso/)
 - [Caching NVD Vulnerability Dependency data on hosted Azure DevOps Pipeline agents](https://blogs.blackmarble.co.uk/rfennell/caching-nvd-dependancies/)
 - [New problem when generating build agents using Packer](https://blogs.blackmarble.co.uk/rfennell/new-problem-when-generating-build-agents-using-packer/)
 - [Practical DevOps in the Enterprise - Event &amp; Whitepaper](https://blogs.blackmarble.co.uk/rfennell/practical-devops-in-the-enterprise/)
 - [SonarQube Docker Container will not start](https://blogs.blackmarble.co.uk/rfennell/sonarqube-container-will-not-start/)
-- [Setting Azure DevOps Agent Pool Descriptions via the Azure DevOps API](https://blogs.blackmarble.co.uk/rfennell/setting-azure-devops-agent-pool_descriptions/)
 <!-- BLOG-POST-LIST:END -->
 
 
