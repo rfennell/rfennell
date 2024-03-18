@@ -6,11 +6,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Events not being triggered for auto-merged Dependabot PRs](https://blogs.blackmarble.co.uk/rfennell/github-events-not-being-triggered-for-auto-merged-dependabot-prs/)
 - [Site fails to render when updating Hugo version](https://blogs.blackmarble.co.uk/rfennell/site-fails-to-render-when-updating-hugo-version/)
 - [Getting a BadGateway error when trying to create Azure DevOps Work items using Power Automated](https://blogs.blackmarble.co.uk/rfennell/getting-a-badgateway-error-when-trying-to-create-azure-devops-work-items-using-power-automated/)
 - [I can&#39;t get git.exe installed on my corporate PC](https://blogs.blackmarble.co.uk/rfennell/i-cant-get-git.exe-installed-on-my-pc/)
 - [Change in Edge/Chromium profile settings broke my Azure Entra ID SSO](https://blogs.blackmarble.co.uk/rfennell/change-in-browser-profile-settings-broke-my-sso/)
-- [Caching NVD Vulnerability Dependency data on hosted Azure DevOps Pipeline agents](https://blogs.blackmarble.co.uk/rfennell/caching-nvd-dependancies/)
 <!-- BLOG-POST-LIST:END -->
 
 
