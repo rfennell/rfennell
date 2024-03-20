@@ -6,11 +6,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Don&#39;t forget to commit your configuration file](https://blogs.blackmarble.co.uk/rfennell/dont-forget-to-commit-your-configuration-file/)
 - [Parsing error with Azure Bicep files in SonarQube](https://blogs.blackmarble.co.uk/rfennell/parsing-error-with-azure-bicep-files-insonarqube/)
 - [GitHub Events not being triggered for auto-merged Dependabot PRs](https://blogs.blackmarble.co.uk/rfennell/github-events-not-being-triggered-for-auto-merged-dependabot-prs/)
 - [Site fails to render when updating Hugo version](https://blogs.blackmarble.co.uk/rfennell/site-fails-to-render-when-updating-hugo-version/)
 - [Getting a BadGateway error when trying to create Azure DevOps Work items using Power Automated](https://blogs.blackmarble.co.uk/rfennell/getting-a-badgateway-error-when-trying-to-create-azure-devops-work-items-using-power-automated/)
-- [I can&#39;t get git.exe installed on my corporate PC](https://blogs.blackmarble.co.uk/rfennell/i-cant-get-git.exe-installed-on-my-pc/)
 <!-- BLOG-POST-LIST:END -->
 
 
