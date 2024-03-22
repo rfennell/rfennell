@@ -6,11 +6,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [It is really time to get off Azure DevOps TFVC source control](https://blogs.blackmarble.co.uk/rfennell/it-is-really-time-to-get-off-tfvc/)
-- [Don&#39;t forget to commit your configuration file](https://blogs.blackmarble.co.uk/rfennell/dont-forget-to-commit-your-configuration-file/)
-- [Parsing error with Azure Bicep files in SonarQube](https://blogs.blackmarble.co.uk/rfennell/parsing-error-with-azure-bicep-files-insonarqube/)
-- [GitHub Events not being triggered for auto-merged Dependabot PRs](https://blogs.blackmarble.co.uk/rfennell/github-events-not-being-triggered-for-auto-merged-dependabot-prs/)
-- [Site fails to render when updating Hugo version](https://blogs.blackmarble.co.uk/rfennell/site-fails-to-render-when-updating-hugo-version/)
+- [Personal Access Tokens &lpar;PATs&rpar; are not your friends](https://blog.richardfennell.net/posts/pats-are-not-your-friends/)
+- [It is really time to get off Azure DevOps TFVC source control](https://blog.richardfennell.net/posts/it-is-really-time-to-get-off-tfvc/)
+- [Don&#39;t forget to commit your configuration file](https://blog.richardfennell.net/posts/dont-forget-to-commit-your-configuration-file/)
+- [Parsing error with Azure Bicep files in SonarQube](https://blog.richardfennell.net/posts/parsing-error-with-azure-bicep-files-insonarqube/)
+- [GitHub Events not being triggered for auto-merged Dependabot PRs](https://blog.richardfennell.net/posts/github-events-not-being-triggered-for-auto-merged-dependabot-prs/)
 <!-- BLOG-POST-LIST:END -->
 
 
