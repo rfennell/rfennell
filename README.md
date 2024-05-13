@@ -6,11 +6,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Announcing a Global DevOps Experience venue at Black Marble](https://blog.richardfennell.net/posts/announcing-global-devops-experience-at-blackmarble/)
 - [Building Reporting Service .RPTProj files in Visual Studio 2022 from the command line](https://blog.richardfennell.net/posts/building-reporting-service-rptproj-files-on-vs2022/)
 - [Creating an undo PowerShell Script for batch updates of Azure DevOps Work Items](https://blog.richardfennell.net/posts/creating-an-undo-script-for-azure-devops-workitems/)
 - [Personal Access Tokens &lpar;PATs&rpar; are not your friends](https://blog.richardfennell.net/posts/pats-are-not-your-friends/)
 - [It is really time to get off Azure DevOps TFVC source control](https://blog.richardfennell.net/posts/it-is-really-time-to-get-off-tfvc/)
-- [Don&#39;t forget to commit your configuration file](https://blog.richardfennell.net/posts/dont-forget-to-commit-your-configuration-file/)
 <!-- BLOG-POST-LIST:END -->
 
 
