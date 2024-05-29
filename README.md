@@ -6,11 +6,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Azure DevOps pipeline jobs failing to start](https://blog.richardfennell.net/posts/azure-devops-pipeline-jobs-failing-to-start/)
 - [Fix for SonarQube recoverable indexing failures error](https://blog.richardfennell.net/posts/fix-for-sonarqube-recoverable-indexing-failures/)
 - [Announcing a Global DevOps Experience venue at Black Marble](https://blog.richardfennell.net/posts/announcing-global-devops-experience-at-blackmarble/)
 - [Building Reporting Service .RPTProj files in Visual Studio 2022 from the command line](https://blog.richardfennell.net/posts/building-reporting-service-rptproj-files-on-vs2022/)
 - [Creating an undo PowerShell Script for batch updates of Azure DevOps Work Items](https://blog.richardfennell.net/posts/creating-an-undo-script-for-azure-devops-workitems/)
-- [Personal Access Tokens &lpar;PATs&rpar; are not your friends](https://blog.richardfennell.net/posts/pats-are-not-your-friends/)
 <!-- BLOG-POST-LIST:END -->
 
 
