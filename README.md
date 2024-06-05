@@ -6,11 +6,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why are my Azure DevOps Pipeline cache hits missing](https://blog.richardfennell.net/posts/why-is-my-azure-devops-pipeline-cache-missing/)
 - [Still time to register for the Global DevOps Experience](https://blog.richardfennell.net/posts/still-time-to-register-for-the-global-devops-experience/)
 - [Azure DevOps pipeline jobs failing to start](https://blog.richardfennell.net/posts/azure-devops-pipeline-jobs-failing-to-start/)
 - [Failing client connections with SQL OPENJSON Incorrect Syntax error after upgrading Identity Server 6 to 7](https://blog.richardfennell.net/posts/failing-client-connections-after-upgrading-identity-server-6-to-7/)
 - [Fix for SonarQube recoverable indexing failures error](https://blog.richardfennell.net/posts/fix-for-sonarqube-recoverable-indexing-failures/)
-- [Announcing a Global DevOps Experience venue at Black Marble](https://blog.richardfennell.net/posts/announcing-global-devops-experience-at-blackmarble/)
 <!-- BLOG-POST-LIST:END -->
 
 
