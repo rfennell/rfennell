@@ -6,11 +6,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [It&#39;s the SonarQube Elasticsearch indexes again](https://blog.richardfennell.net/posts/its-the-sonarqube-indexes-again/)
 - [Passing dynamically sized object parameters to Azure DevOps Pipeline templates](https://blog.richardfennell.net/posts/passing-object-parameters-to-azure-devops-pipeline-template/)
 - [Why are my Azure DevOps Pipeline cache hits missing](https://blog.richardfennell.net/posts/why-is-my-azure-devops-pipeline-cache-missing/)
 - [Still time to register for the Global DevOps Experience](https://blog.richardfennell.net/posts/still-time-to-register-for-the-global-devops-experience/)
 - [Azure DevOps pipeline jobs failing to start](https://blog.richardfennell.net/posts/azure-devops-pipeline-jobs-failing-to-start/)
-- [Failing client connections with SQL OPENJSON Incorrect Syntax error after upgrading Identity Server 6 to 7](https://blog.richardfennell.net/posts/failing-client-connections-after-upgrading-identity-server-6-to-7/)
 <!-- BLOG-POST-LIST:END -->
 
 
