@@ -8,11 +8,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Problem running Playwright UX tests on hosted Github Actions Runners](https://blog.richardfennell.net/posts/problem-running-playwright-tests-with-github-actions/)
 - [Powershell token replacement failing for MSDeploy in GitHub Action](https://blog.richardfennell.net/posts/powershell-token-replacement-failing-for-msdeploy-in-github-action/)
 - [Fixes for issues moving from on-premise Azure DevOps agents to Azure Managed DevOps Pool agents](https://blog.richardfennell.net/posts/fixing-issues-moving-from-on-premise-azdo-agent-to-mdp-hosted-agents/)
 - [A first look at using Azure Managed DevOps Pools](https://blog.richardfennell.net/posts/a-first-look-at-using-azure-mdp/)
 - [Watch out that Azure DevOps Server 2022.2 drops support for SQL2017](https://blog.richardfennell.net/posts/watch-out-that-azdo2022.2-drops-support-for-sql2017/)
-- [Yet more Azure DevOps pipeline variable expansion strangeness](https://blog.richardfennell.net/posts/yet-more-azure-devops-pipeline-variable-expansion-strangeness/)
 <!-- BLOG-POST-LIST:END -->
 
 
