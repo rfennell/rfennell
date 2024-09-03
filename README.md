@@ -8,11 +8,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Showing Bicep Linting Issues as Errors and Warnings in Azure DevOps Pipelines](https://blog.richardfennell.net/posts/showing-bicep-linting-issues-as-errors-and-warnings-in-azdo-pipelines/)
 - [How to run your own maintenance job on Azure DevOps pipelines &lpar;Revisited now using Workload Identity federation&rpar;](https://blog.richardfennell.net/posts/how-to-run-your-own-maintainance-job-on-azure-devops-pipelines-revisted/)
 - [Problem running Playwright UX tests on hosted Github Actions Runners](https://blog.richardfennell.net/posts/problem-running-playwright-tests-with-github-actions/)
 - [Powershell token replacement failing for MSDeploy in GitHub Action](https://blog.richardfennell.net/posts/powershell-token-replacement-failing-for-msdeploy-in-github-action/)
 - [Fixes for issues moving from on-premise Azure DevOps agents to Azure Managed DevOps Pool agents](https://blog.richardfennell.net/posts/fixing-issues-moving-from-on-premise-azdo-agent-to-mdp-hosted-agents/)
-- [A first look at using Azure Managed DevOps Pools](https://blog.richardfennell.net/posts/a-first-look-at-using-azure-mdp/)
 <!-- BLOG-POST-LIST:END -->
 
 
