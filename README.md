@@ -8,11 +8,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Editing multiple files in the Azure DevOps UI and committing them in a single commit](https://blog.richardfennell.net/posts/editing-multiple-files-in-azdo-ui-in-a-single-commit/)
 - [Generating Visual Studio SQL Database Projects from the command line](https://blog.richardfennell.net/posts/generating-vs-sql-projects-from-the-command-line/)
 - [Showing Bicep Linting Issues as Errors and Warnings in Azure DevOps Pipelines](https://blog.richardfennell.net/posts/showing-bicep-linting-issues-as-errors-and-warnings-in-azdo-pipelines/)
 - [How to run your own maintenance job on Azure DevOps pipelines &lpar;Revisited now using Workload Identity federation&rpar;](https://blog.richardfennell.net/posts/how-to-run-your-own-maintainance-job-on-azure-devops-pipelines-revisted/)
 - [Problem running Playwright UX tests on hosted Github Actions Runners](https://blog.richardfennell.net/posts/problem-running-playwright-tests-with-github-actions/)
-- [Powershell token replacement failing for MSDeploy in GitHub Action](https://blog.richardfennell.net/posts/powershell-token-replacement-failing-for-msdeploy-in-github-action/)
 <!-- BLOG-POST-LIST:END -->
 
 
