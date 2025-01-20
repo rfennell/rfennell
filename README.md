@@ -8,11 +8,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Re-authenticating Microsoft Authenticator after swapping your phone](https://blog.richardfennell.net/posts/re-authenticating-mfa-after-swapping-your-phone/)
 - [Why am I getting no private key is available error when I try to digitally sign files in my Azure DevOps Pipeline?](https://blog.richardfennell.net/posts/why-cant-i-digitally-sign-files-in-my-pipeline/)
 - [Inject a step into Web Deploy](https://blog.richardfennell.net/posts/inject-a-step-into-msdeploy/)
 - [ProjectFileIndexer exceptions in SonarQube](https://blog.richardfennell.net/posts/projectfileindexer-exceptions-in-sonarqube/)
 - [Why is my SnipeIT instance suddenly slow?](https://blog.richardfennell.net/posts/why-is-my-snipeit-instance-suddenly-slow/)
-- [Using Azure Service Connection names that are stored in variables group in Azure DevOps Pipeline](https://blog.richardfennell.net/posts/using-azure-service-connection-names-that-are-stored-in-variables-group-ado-pipeline/)
 <!-- BLOG-POST-LIST:END -->
 
 
