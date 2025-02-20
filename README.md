@@ -8,11 +8,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I know I am late to the game with Home Assistant....](https://blog.richardfennell.net/posts/late-to-the-game-with-homeassistant/)
 - [What are my options authenticating the az devops CLI?](https://blog.richardfennell.net/posts/what-are-my-options-authenticating-az-devops-api/)
 - [Passing Azure DevOps WI field names in PowerShell to Az DevOps CLI as variables](https://blog.richardfennell.net/posts/passing-ado-wi-fieldnames-in-powershell-to-azcli/)
 - [Signing files in GitHub Actions](https://blog.richardfennell.net/posts/signing-files-in-github-actions/)
 - [Re-authenticating Microsoft Authenticator after swapping your phone](https://blog.richardfennell.net/posts/re-authenticating-mfa-after-swapping-your-phone/)
-- [Why am I getting no private key is available error when I try to digitally sign files in my Azure DevOps Pipeline?](https://blog.richardfennell.net/posts/why-cant-i-digitally-sign-files-in-my-pipeline/)
 <!-- BLOG-POST-LIST:END -->
 
 
