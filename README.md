@@ -8,11 +8,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why cannot I see my Logic App action output?](https://blog.richardfennell.net/posts/why-cant-i-see-my-logic-app-action-output/)
 - [Parsing CSV files in Azure Logic Apps](https://blog.richardfennell.net/posts/parsing-csv-file-in-logic-apps/)
 - [I know I am late to the game with Home Assistant....](https://blog.richardfennell.net/posts/late-to-the-game-with-homeassistant/)
 - [What are my options authenticating the az devops CLI?](https://blog.richardfennell.net/posts/what-are-my-options-authenticating-az-devops-api/)
 - [Passing Azure DevOps WI field names in PowerShell to Az DevOps CLI as variables](https://blog.richardfennell.net/posts/passing-ado-wi-fieldnames-in-powershell-to-azcli/)
-- [Signing files in GitHub Actions](https://blog.richardfennell.net/posts/signing-files-in-github-actions/)
 <!-- BLOG-POST-LIST:END -->
 
 
