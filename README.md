@@ -8,11 +8,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Presenting at Black Marble event GitHub Copilot how to harness the power of AI for Developers&#39;](https://blog.richardfennell.net/posts/bm-github-copilot-event/)
 - [Experiences Migrating CI/CD solutions with GitHub Copilot](https://blog.richardfennell.net/posts/experiences-migrating-cicd-with-copilot/)
 - [You need to wait longer when restarting Logic Apps](https://blog.richardfennell.net/posts/you-need-to-wait-longer-when-restarting-logic-apps/)
 - [Why cannot I see my Logic App action output?](https://blog.richardfennell.net/posts/why-cant-i-see-my-logic-app-action-output/)
 - [Parsing CSV files in Azure Logic Apps](https://blog.richardfennell.net/posts/parsing-csv-file-in-logic-apps/)
-- [I know I am late to the game with Home Assistant....](https://blog.richardfennell.net/posts/late-to-the-game-with-homeassistant/)
 <!-- BLOG-POST-LIST:END -->
 
 
