@@ -8,11 +8,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [A GitHub Actions equivalent to Azure DevOps Pipelines $&lpar;rev:r&rpar; revisions](https://blog.richardfennell.net/posts/github-actions-equivalent-to-ado-revisions/)
 - [Problems migrating Non-English Azure DevOps Services to Azure DevOps Services and how to solve them](https://blog.richardfennell.net/posts/problems-migrating-non-english-ado-server-to-azure/)
 - [Using GitHub Copilot to write an Azure DevOps Test Plan Export Tool](https://blog.richardfennell.net/posts/using-copilot-to-write-an-azure-devops-export-tool/)
 - [Presenting at Black Marble event GitHub Copilot how to harness the power of AI for Developers&#39;](https://blog.richardfennell.net/posts/bm-github-copilot-event/)
 - [Experiences Migrating CI/CD solutions with GitHub Copilot](https://blog.richardfennell.net/posts/experiences-migrating-cicd-with-copilot/)
-- [You need to wait longer when restarting Logic Apps](https://blog.richardfennell.net/posts/you-need-to-wait-longer-when-restarting-logic-apps/)
 <!-- BLOG-POST-LIST:END -->
 
 
