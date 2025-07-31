@@ -8,11 +8,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why can&#39;t I see my Lenovo Thunderbolt 3 Dock?](https://blog.richardfennell.net/posts/why-cant-i-see-my-thunderbolt-dock/)
 - [Creating a GitHub App based Azure DevOps Pipelines Service Connection](https://blog.richardfennell.net/posts/setting-up-github-app-ado-service-connection-on-another-org/)
 - [A GitHub Actions equivalent to Azure DevOps Pipelines $&lpar;rev:r&rpar; revisions](https://blog.richardfennell.net/posts/github-actions-equivalent-to-ado-revisions/)
 - [Problems migrating Non-English Azure DevOps Services to Azure DevOps Services and how to solve them](https://blog.richardfennell.net/posts/problems-migrating-non-english-ado-server-to-azure/)
 - [Using GitHub Copilot to write an Azure DevOps Test Plan Export Tool](https://blog.richardfennell.net/posts/using-copilot-to-write-an-azure-devops-export-tool/)
-- [Presenting at Black Marble event GitHub Copilot how to harness the power of AI for Developers&#39;](https://blog.richardfennell.net/posts/bm-github-copilot-event/)
 <!-- BLOG-POST-LIST:END -->
 
 
