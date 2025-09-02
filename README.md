@@ -8,11 +8,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Another confusing Azure DevOps Pipelines YAML error message using StringList parameters](https://blog.richardfennell.net/posts/another-confusing-ado-pipelines-yaml-error-message/)
 - [Finally I have working SONOFF SNZB-02P sensors with Home Assistant](https://blog.richardfennell.net/posts/finally-have-working-temperature-sensors-with-ha/)
 - [Your out of support DevOps tooling is hurting you](https://blog.richardfennell.net/posts/your-out-of-support-devops-tooling-is-hurting-you/)
 - [Recent Grey Matter Events](https://blog.richardfennell.net/posts/grey-matter-events/)
 - [Why can&#39;t I see my Lenovo Thunderbolt 3 Dock?](https://blog.richardfennell.net/posts/why-cant-i-see-my-thunderbolt-dock/)
-- [Creating a GitHub App based Azure DevOps Pipelines Service Connection](https://blog.richardfennell.net/posts/setting-up-github-app-ado-service-connection-on-another-org/)
 <!-- BLOG-POST-LIST:END -->
 
 
