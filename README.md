@@ -8,11 +8,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Interesting side effect with the Azure DevOps cache if misconfigured](https://blog.richardfennell.net/posts/interesting-side-effect-with-azdo-cache/)
 - [Getting a Surface Hub v1 Working with a Replacement PC](https://blog.richardfennell.net/posts/getting_a_surfacehub_working_with_a_replacement_pc/)
 - [Changing mySql SSL Certificates when running SnipeIT in Azure](https://blog.richardfennell.net/posts/mysql-cert-changes-and-snipeit-in-azure/)
 - [Another confusing Azure DevOps Pipelines YAML error message using StringList parameters](https://blog.richardfennell.net/posts/another-confusing-ado-pipelines-yaml-error-message/)
 - [Finally I have working SONOFF SNZB-02P sensors with Home Assistant](https://blog.richardfennell.net/posts/finally-have-working-temperature-sensors-with-ha/)
-- [Your out of support DevOps tooling is hurting you](https://blog.richardfennell.net/posts/your-out-of-support-devops-tooling-is-hurting-you/)
 <!-- BLOG-POST-LIST:END -->
 
 
