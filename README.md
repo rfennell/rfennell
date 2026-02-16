@@ -8,11 +8,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Caught out again by the cache in a build pipeline](https://blog.richardfennell.net/posts/caught-out-again-by-a-cache-in-a-build-pipeline/)
 - [Cannot create a new Azure DevOps Agent Pool on an Azure DevOps Server](https://blog.richardfennell.net/posts/cannot-create-azdo-agent-pool/)
 - [Issues parsing xUnit Test Coverage data into SonarQube](https://blog.richardfennell.net/posts/errors-getting-test-coverage-into-sonarqube/)
 - [Updating powerBI connections after a SQL migration](https://blog.richardfennell.net/posts/updating-powerbi-db-connections/)
 - [Updating a project&#39;s SonarQube and OWASP Dependency Checker Plugin Configuration](https://blog.richardfennell.net/posts/updating-our-sonarqube-configuration/)
-- [Grey Matter Podcast &#39;Secure by design: The DevSecOps mindset&#39;](https://blog.richardfennell.net/posts/grey-matter-nov25-podcast/)
 <!-- BLOG-POST-LIST:END -->
 
 
