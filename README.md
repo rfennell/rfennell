@@ -8,11 +8,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Options for migrating DevOps Toolsets](https://blog.richardfennell.net/posts/options-migrating-devops-toolsets/)
 - [Unexpected &#39;task is dependent on a Node version that is end-of-life&#39; warning with Azure DevOps Pipelines](https://blog.richardfennell.net/posts/unexpected-is-dependent-on-a-node-version-that-is-end-of-life-error/)
 - [Caught out again by the cache in a build pipeline](https://blog.richardfennell.net/posts/caught-out-again-by-a-cache-in-a-build-pipeline/)
 - [Cannot create a new Azure DevOps Agent Pool on an Azure DevOps Server](https://blog.richardfennell.net/posts/cannot-create-azdo-agent-pool/)
 - [Issues parsing xUnit Test Coverage data into SonarQube](https://blog.richardfennell.net/posts/errors-getting-test-coverage-into-sonarqube/)
-- [Updating powerBI connections after a SQL migration](https://blog.richardfennell.net/posts/updating-powerbi-db-connections/)
 <!-- BLOG-POST-LIST:END -->
 
 
