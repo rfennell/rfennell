@@ -8,11 +8,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Migrating Azure WebApps from Docker Compose to Sidecar](https://blog.richardfennell.net/posts/migrating-azure-webapps-fromdockercompose-to-sidecar/)
 - [Why has my BizTalk CI/CD build just stopped working?](https://blog.richardfennell.net/posts/why-has-my-biztalk-build-just-stopped-working/)
 - [PostSharp assembly error upgrading Delinea Secret Server](https://blog.richardfennell.net/posts/postsharp-assembly-error-upgrading-secret-server/)
 - [Another new problem when generating build agents using Packer](https://blog.richardfennell.net/posts/new-problem-when-generating-build-agents-using-packer-mar-2026/)
 - [Options for Migrating DevOps Toolsets](https://blog.richardfennell.net/posts/options-migrating-devops-toolsets/)
-- [Unexpected &#39;task is dependent on a Node version that is end-of-life&#39; warning with Azure DevOps Pipelines](https://blog.richardfennell.net/posts/unexpected-is-dependent-on-a-node-version-that-is-end-of-life-error/)
 <!-- BLOG-POST-LIST:END -->
 
 
