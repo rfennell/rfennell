@@ -8,11 +8,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Duplicated IP addresses give strange error when deploying Hyper-V environments](https://blog.richardfennell.net/posts/duplicated-ip-addresses-give-strange-error/)
 - [Fixing Ribble CGR-Ale &lpar;Mahle X35 based&rpar; ebike with intermittent power](https://blog.richardfennell.net/posts/fixing-mahle-x35-ebike-with-intermittant-power/)
 - [Migrating Azure WebApps from Docker Compose to Sidecar](https://blog.richardfennell.net/posts/migrating-azure-webapps-fromdockercompose-to-sidecar/)
 - [Why has my BizTalk CI/CD build just stopped working?](https://blog.richardfennell.net/posts/why-has-my-biztalk-build-just-stopped-working/)
 - [PostSharp assembly error upgrading Delinea Secret Server](https://blog.richardfennell.net/posts/postsharp-assembly-error-upgrading-secret-server/)
-- [Another new problem when generating build agents using Packer](https://blog.richardfennell.net/posts/new-problem-when-generating-build-agents-using-packer-mar-2026/)
 <!-- BLOG-POST-LIST:END -->
 
 
