@@ -8,11 +8,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Unhandled Exception podcast recording from DDD South West 2026 has been published](https://blog.richardfennell.net/posts/unhandledexceptionpodcast/)
 - [Slides from DDD South West 2026](https://blog.richardfennell.net/posts/ddd-south-west-2026/)
 - [Duplicated IP addresses give strange error when deploying Hyper-V environments](https://blog.richardfennell.net/posts/duplicated-ip-addresses-give-strange-error/)
 - [Fixing Ribble CGR-Ale &lpar;Mahle X35 based&rpar; ebike with intermittent power](https://blog.richardfennell.net/posts/fixing-mahle-x35-ebike-with-intermittant-power/)
 - [Migrating Azure WebApps from Docker Compose to Sidecar](https://blog.richardfennell.net/posts/migrating-azure-webapps-fromdockercompose-to-sidecar/)
-- [Why has my BizTalk CI/CD build just stopped working?](https://blog.richardfennell.net/posts/why-has-my-biztalk-build-just-stopped-working/)
 <!-- BLOG-POST-LIST:END -->
 
 
