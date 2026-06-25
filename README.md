@@ -8,11 +8,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Lower API impact way of updating NVD Vulnerability Dependency data](https://blog.richardfennell.net/posts/lower-api-impact-way-of-updating-nvd-db/)
 - [Azure DevOps Pipeline cache issue stopping Dependency Check task](https://blog.richardfennell.net/posts/ado-cache-issue-stopping-dependancy-check/)
 - [Strange build issue in Azure DevOps Pipelines when MSBuild is running pre-build scripts](https://blog.richardfennell.net/posts/strange-build-issue-msbuild-running-pre-build-scripts/)
 - [Unhandled Exception podcast recording from DDD South West 2026 has been published](https://blog.richardfennell.net/posts/unhandledexceptionpodcast/)
 - [Slides from DDD South West 2026](https://blog.richardfennell.net/posts/ddd-south-west-2026/)
-- [Duplicated IP addresses give strange error when deploying Hyper-V environments](https://blog.richardfennell.net/posts/duplicated-ip-addresses-give-strange-error/)
 <!-- BLOG-POST-LIST:END -->
 
 
