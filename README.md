@@ -8,11 +8,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Unexpected error when using the wrong ADO build agent](https://blog.richardfennell.net/posts/unexpected-error-when-using-the-wrong-build-agent/)
 - [Missing Azure DevOps Server Team Project Collection database when doing an upgrade](https://blog.richardfennell.net/posts/missing-ado-tpc-backup-when-upgrading/)
 - [Lower API impact way of updating NVD Vulnerability Dependency data](https://blog.richardfennell.net/posts/lower-api-impact-way-of-updating-nvd-db/)
 - [Azure DevOps Pipeline cache issue stopping Dependency Check task](https://blog.richardfennell.net/posts/ado-cache-issue-stopping-dependancy-check/)
 - [Strange build issue in Azure DevOps Pipelines when MSBuild is running pre-build scripts](https://blog.richardfennell.net/posts/strange-build-issue-msbuild-running-pre-build-scripts/)
-- [Unhandled Exception podcast recording from DDD South West 2026 has been published](https://blog.richardfennell.net/posts/unhandledexceptionpodcast/)
 <!-- BLOG-POST-LIST:END -->
 
 
