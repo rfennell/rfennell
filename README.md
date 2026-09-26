@@ -8,11 +8,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Adding SQL Permissions for an Azure Managed Identity](https://blog.richardfennell.net/posts/adding-sql-permissions-for-azure-managed-identity/)
 - [Why has my L-Twoo GRX Shifters stopped working and how do I fix them?](https://blog.richardfennell.net/posts/why-has-my-ltwoo-grx-stopped-working/)
 - [Fix for slow WIFI performance on Dell Latitude Laptop](https://blog.richardfennell.net/posts/-slow-be200-wifi-on-dell-laptop/)
 - [Unexpected error when using the wrong ADO build agent](https://blog.richardfennell.net/posts/unexpected-error-when-using-the-wrong-build-agent/)
 - [Missing Azure DevOps Server Team Project Collection database when doing an upgrade](https://blog.richardfennell.net/posts/missing-ado-tpc-backup-when-upgrading/)
-- [Lower API impact way of updating NVD Vulnerability Dependency data](https://blog.richardfennell.net/posts/lower-api-impact-way-of-updating-nvd-db/)
 <!-- BLOG-POST-LIST:END -->
 
 
